@@ -1,5 +1,5 @@
 # CuesforNaturalisticVideos
-The MATLAB-code belongs to the paper "Cues for predictive eye movements in naturalistic scenes". You can find the paper here: 
+The MATLAB-code belongs to the paper "Cues for predictive eye movements in naturalistic scenes". You can find the paper here: https://www.biorxiv.org/content/10.1101/2023.04.21.537766v1
 
 The raw data you need to run the analysis are available at osf: https://osf.io/kqup8/
 
